@@ -50,6 +50,8 @@
 
 `kubectl get services`
 
+`kubectl delete service [service_name]`
+
 `kubectl get deployments`
 
 `kubectl desribe deployment [depl_name]`
